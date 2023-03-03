@@ -1,0 +1,29 @@
+.container{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(106,203,245,1);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(106,203,245,1);
+    box-shadow: 10px 10px 5px 0px rgba(106,203,245,1);
+    background-image: url('bg.jpg');
+    background-size: cover;
+    border-radius: 30px;
+}
+body{
+    background-color: beige;
+}
+#display{
+    font-size: 1.7rem;
+    
+}
+#authorname{
+    font-size: 1.2rem;
+    padding-left: 50%;
+}
+ #generate{
+    height: auto;
+    width: auto;
+    padding: 0.8rem 1.5rem;
+ }
+ marquee{
+    padding-bottom: 3rem;
+    color: white;
+    font-size: 1rem;
+ }
